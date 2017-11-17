@@ -1,0 +1,6 @@
+Mittlerweile beträgt n=40. Um die Daten zu überprüfen, führten wir zunächst ein paar Tests durch.
+- Häufigkeitstabelle Semesteranzahl
+-Korrelationskoeffizient (normale, Pearson) :Schulnoten  Mathe
+- Schulnoten Fremdsprache ->Problem: zu geringer Kr.-ChiQuadrat-Unabhängigkeitstest: Geschlecht 
+-Notendurchschnitt . Problem : Gruppen zu klein, zu wenig Männer mit Ns<3 -> mehr Befragungen durchführen
+-Regression:  Semesterzahl-Crp . Höchster KE=0,58-Spearman RangKor: Arbeitsstunden pro Woche-Notendurchschnitt
