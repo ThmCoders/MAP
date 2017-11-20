@@ -1,0 +1,3 @@
+um weitere tests wie z.b differenzentest oder andere.. machen zu können müssen die einzlnen gruppen bzw n>30 sein oder normalverteilt. 
+-1 mög: Die Normalverteilung wurde geprüft anhand des anderson-darling tests (mit vorgefertigten template)
+-2 mög: anhand grafik prüfen und werte mit normalverteilung vergleichen
